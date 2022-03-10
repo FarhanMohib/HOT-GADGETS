@@ -1,0 +1,69 @@
+.container{
+    padding: 20px;
+
+}
+.orange-bg{
+    background-image: url('hot-gadgets/bg-1.png');
+    background-repeat: no-repeat;
+    background-color:slategray ;
+}
+
+.carousel-item{
+    padding: 20px 60px;
+}
+  
+.buy-button{
+    background-image: linear-gradient(to bottom, #e63314 0%, #a31616 100%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+.see{
+    color: orange;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+.cat{
+    padding-top: 50px;
+    text-align: center;
+    color: crimson;
+
+}
+.cat p{
+    color: orange;
+   
+}
+.slide{
+    padding-top: 30px;
+}
+.cat3 img{
+    width: 500px;
+}
+.cat1 h4{
+    padding-left: 190px;
+}
+.cat1 img{
+    border: 2px solid white;
+     padding-left: 150px;
+     padding-top: 100px;
+
+}
+.cat2 img{
+    width: 150px;
+    border: 2px solid lightgrey;
+     
+    
+}
+.cat2{
+    
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+footer{
+    text-align: center;
+}
